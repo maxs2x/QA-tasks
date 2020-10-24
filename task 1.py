@@ -2,6 +2,8 @@ import aiohttp
 import asyncio
 import time
 
+fore sys import getsizeof
+
 
 async def request(client):
     """
