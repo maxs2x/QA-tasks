@@ -60,4 +60,4 @@ class Language(CoinMarketCap):
 #Запуск теста для блока популярных языков
 Language().change_popular_language()
 #Запуск теста для блока всех языков
-Language().change_popular_language()
+Language().change_all_language()
